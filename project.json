@@ -1,0 +1,23 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Play the retro pixel art game of Pong on your screen. This is an interactive game for all girls and guys who enjoy playing this iconic game. Click the mouse to start and moving the mouse will move the paddles on both sides. Challenge your hand and eye coordination in this CGI. Enjoy!",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Game" ],
+	"title" : "Pong * Interactive *",
+	"type" : "web",
+	"visibility" : "public"
+}
